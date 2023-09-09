@@ -10,10 +10,10 @@ export default function Home() {
           <Link href="/users">Formulario usuarios</Link>
         </li>
         <li>
-          <Link href="/users">Buscador de imagenes</Link>
+          <Link href="/search">Buscador de imagenes</Link>
         </li>
         <li>
-          <Link href="/users">TODO app</Link>
+          <Link href="/todo">TODO app</Link>
         </li>
       </ul>
     </CssBaseline>
