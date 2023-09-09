@@ -9,7 +9,7 @@ import Grid from "@mui/material/Unstable_Grid2/Grid2";
 import { useForm, SubmitHandler } from "react-hook-form";
 import React, { useState } from "react";
 
-import { User } from "@/interfaces/user";
+import { User } from "@/types/user";
 import { UsersTable } from "./components/Table";
 
 

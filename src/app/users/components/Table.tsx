@@ -10,7 +10,7 @@ import {
     TableHead,
     TableRow,
 } from "@mui/material";
-import { User } from '@/interfaces/user';
+import { User } from '@/types/user';
 import Grid from '@mui/material/Unstable_Grid2/Grid2';
 import DeleteIcon from "@mui/icons-material/Delete";
 import EditIcon from "@mui/icons-material/Edit";
