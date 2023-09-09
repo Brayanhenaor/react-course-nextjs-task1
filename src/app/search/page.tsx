@@ -18,7 +18,6 @@ const SearchPage = () => {
     e.preventDefault();
     const value = search.current?.value;
     if (value !== null && value !== "") {
-      // Do something with the value
       searchImages(value!)
     }
   }
